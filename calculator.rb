@@ -1,2 +1,2 @@
 first_number = 3
-secondnumber = 3
+second_number = 3
